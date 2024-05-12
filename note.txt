@@ -1,1 +1,2 @@
-
+While copying or cloning this project, make sure to add your port link in script.js file.
+On line 26, 73 and 105.
